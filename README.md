@@ -1,2 +1,2 @@
-# The-Saprks-Foundation
+# The-Sparks-Foundation
 ML n DS Tasks
